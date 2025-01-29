@@ -11,7 +11,7 @@
           "-framework", "OpenGL",
           "-framework", "GLUT",
           "-o", "main",
-          "${workspaceFolder}/main.cpp"
+          "${workspaceFolder}/main.cpp"//Enter what do you wanna compile (main.cpp or snake.cpp)
         ],
         "group": {
           "kind": "build",
